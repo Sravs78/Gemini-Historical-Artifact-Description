@@ -43,7 +43,6 @@ It demonstrates the integration of:
 git clone [https://github.com/Sravs78/Gemini-Historical-Artifact-Description]
 
 2️⃣ Navigate to project folder
-'''bash
 cd Gemini-Historical-Artifact-Description
 
 3️⃣ Create virtual environment
