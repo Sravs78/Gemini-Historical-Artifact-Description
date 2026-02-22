@@ -6,7 +6,9 @@ from google.genai.types import Part
 
 # Load API key from .env
 load_dotenv()
-API_KEY = os.getenv("API_KEY")
+API_KEY = "Paste_Your_API_Key"
+
+st.write("Loaded API Key:", API_KEY)
 
 # Create GenAI client
 client = genai.Client(api_key=API_KEY)
