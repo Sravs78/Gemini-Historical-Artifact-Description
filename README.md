@@ -40,7 +40,7 @@ It demonstrates the integration of:
 
 1️⃣ **Clone the repository**
 ```bash
-git clone [https://github.com/Sravs78/Gemini-Historical-Artifact-Description](https://github.com/Sravs78/Gemini-Historical-Artifact-Description)
+git clone [https://github.com/Sravs78/Gemini-Historical-Artifact-Description]
 
 2️⃣ Navigate to project folder
 cd Gemini-Historical-Artifact-Description
